@@ -2,5 +2,5 @@
 
 int main(void) 
 {
-	printf("Happy birthday Sunny 🎉");
+	printf("Happy birthday Sunny\n");
 }
